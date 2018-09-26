@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0313a97144f979542a6582b677114d60
+timeCreated: 1513761987
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Street Slab
+  fontNames:
+  - Street Slab
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
